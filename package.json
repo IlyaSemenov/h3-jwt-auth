@@ -1,7 +1,7 @@
 {
   "name": "h3-jwt-auth",
   "type": "module",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "packageManager": "pnpm@9.14.2",
   "description": "Simple JWT token authentication for h3 / Nuxt",
   "author": "Ilya Semenov",
